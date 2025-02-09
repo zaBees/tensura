@@ -271,11 +271,6 @@ hash = "5d494ba82ba1e72c57adefb9e2774f7501689a0a680786248a923dbd933e0bae"
 metafile = true
 
 [[files]]
-file = "mods/mafglib.pw.toml"
-hash = "b04e1ba803e5e29ef226cc6b2d44c1a5ffccafc01fd98e70062b6bfe3f4e35c2"
-metafile = true
-
-[[files]]
 file = "mods/manascore.pw.toml"
 hash = "9175facff14a7e09ff1851153f6fb375b6a470b60e39653b9c17d737c2cee930"
 metafile = true
@@ -351,11 +346,6 @@ hash = "ecf093b7e1eea7c65c3590ccf3b5b8ae44d7098cb8d61e2e8db2bc2786dbeb91"
 metafile = true
 
 [[files]]
-file = "mods/rockn-roller.pw.toml"
-hash = "90467893381557c999f29b0cda3e9bd09f72bd4e7dcf2d413c5c7d58df06c9ba"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "aa9411c69f0a0f561ff0901fc6dc315db8dcd5012902241e6fc37fa02d1d9143"
 metafile = true
@@ -421,11 +411,6 @@ hash = "9dd680e7e847c90451529fc930fa1da0e3c5e0e557ac1d7338e9a9d03266718b"
 metafile = true
 
 [[files]]
-file = "mods/tweakerge.pw.toml"
-hash = "21faac6836fcd170b16c216560d8a7f925c147477d45a6d62aba6eb7f6161952"
-metafile = true
-
-[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "8d2c6294be2f0e0efcc0e7605456350cc061c4e7dac921c895dd3510d58cdbf5"
 metafile = true
@@ -447,20 +432,6 @@ hash = "dd06dc2fcdd3d7a49512238b445aa48a817d61d45ba4cb12b4332bac06a2df4e"
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c37965ff8d013b31bc7e227aae37b5949e4e1126280aca4b23271b42d9d601b3"
-metafile = true
-
-[[files]]
-file = "mods/world-host-0.5.1+1.19.2-forge.jar"
-hash = "504bf1cca5b2417953e79cfae580020ee57f10cf91a582240c1a320fe716f547"
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "2b4363d83b35a4c27df44f4874762a2ad310b1df26bc5c5451f6c30a3218d3a3"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "c69ece121283b6c725244bacb035cf7deb5365499ce009227ab159e50f2d5cd2"
 metafile = true
 
 [[files]]
