@@ -1,0 +1,13 @@
+name = "Cyclops Core"
+filename = "CyclopsCore-1.19.2-1.19.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2026a5b07f36d8e6e08cefb4c395d2badf127397"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6154519
+project-id = 232758

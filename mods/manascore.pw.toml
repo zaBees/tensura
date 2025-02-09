@@ -1,0 +1,13 @@
+name = "ManasCore"
+filename = "manascore-1.19.2-2.1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f865fa6d7c09bee21113be18608c5edae416735d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5909033
+project-id = 619025

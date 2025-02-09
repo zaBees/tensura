@@ -1,0 +1,13 @@
+name = "EMI Enchants"
+filename = "EMIEnchants-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c969ef10c75179c1d54f1dc4e21c3237e6bcba73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5428326
+project-id = 1036393

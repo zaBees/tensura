@@ -1,0 +1,13 @@
+name = "ClearDrops!"
+filename = "cleardrops-forge-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1cf75e21dd37f6795c59205cbfd6f1d310f442e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4542901
+project-id = 862837

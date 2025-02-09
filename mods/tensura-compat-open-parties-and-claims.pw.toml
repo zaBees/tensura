@@ -1,0 +1,13 @@
+name = "Tensura Compat: Open Parties and Claims"
+filename = "tensura_opac-1.19.2-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c58445e0addb598b3884d0ec79b1c1c7e0042556"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5908764
+project-id = 1140218

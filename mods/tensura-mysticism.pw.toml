@@ -1,0 +1,13 @@
+name = "Tensura: Mysticism - Tensura: Reincarnated"
+filename = "trmysticism-1.0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffb5e56adbbb8472e1dca73a5d0f3e6f816d07e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5956300
+project-id = 1148149

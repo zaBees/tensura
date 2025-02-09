@@ -1,0 +1,13 @@
+name = "JourneyPAC"
+filename = "JourneyPAC-forge-1.19.2-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe77e4b22a419491a5c0e2146ee4bb975fc8da01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812867
+project-id = 1121777
