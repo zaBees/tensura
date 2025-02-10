@@ -1,13 +1,13 @@
 name = "Tensura: Reincarnated Addon"
-filename = "traddon-1.19.2-1.0.6.jar"
+filename = "traddon-1.19.2-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "766fb08ffae70d457e7b8b1d4669b83fa4780f66"
+hash = "65e1eab1618f6dd7e3eac81a14db4b5589d7baf2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5965040
+file-id = 6109345
 project-id = 1132105

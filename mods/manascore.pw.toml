@@ -1,13 +1,13 @@
 name = "ManasCore"
-filename = "manascore-1.19.2-2.1.4.2.jar"
+filename = "ManasCore-1.19.2-2.1.4.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f865fa6d7c09bee21113be18608c5edae416735d"
+hash = "93732e7687bdb8e30dbe82e25825f7602bae03ab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5909033
+file-id = 6042708
 project-id = 619025

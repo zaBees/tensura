@@ -1,13 +1,13 @@
 name = "Tensura: Reincarnated"
-filename = "tensura-1.19.2-1.0.0.5.jar"
+filename = "tensura-1.19.2-1.0.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "769ddd3d650d9106da2f3635d3468efe99c4b236"
+hash = "b239908de3210fd0f0b8440099e4c0033853d2af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5951056
+file-id = 6168304
 project-id = 643695

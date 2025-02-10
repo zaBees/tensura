@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "0ddfcdaa7875a41a3c5fa98ed27bbb2b3234708e4c9d5c997e56c56d9bdf54a0"
+hash = "42d204e4de3abe587ff8e7ff3041d85204ed45e7ea8c1e4251b3a0eddd7e23ac"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
+hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
@@ -267,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "5d494ba82ba1e72c57adefb9e2774f7501689a0a680786248a923dbd933e0bae"
+hash = "4d4bdfac7b91e46d891fdfe1565dc06df0a15c73bc944c0f5a10f13bba38814a"
 metafile = true
 
 [[files]]
 file = "mods/manascore.pw.toml"
-hash = "9175facff14a7e09ff1851153f6fb375b6a470b60e39653b9c17d737c2cee930"
+hash = "7909983b0f3f99643d7440b7eb355be177581c74ec6cf1c12d49016766375f56"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1212e4cd9262bae5f1143cd78caff4f3220d08b5fdc55fd2af6066983577346f"
+hash = "a6866c8a345ef6b82f330c6ce840f0023fba4f0075aded4bbb7a9a8f4d3b419e"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "85162762d137c14043818c99a3abe49efaab756181bd7f0c629215a041cf83c4"
+hash = "b4a96cfd3695f2517b8a3c7b50038265a466b36896d650747af2e5774f30c354"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragnarok-races.pw.toml"
-hash = "aa279a44ef189bfbb2a376c1e64cee5012728ffd6795479b9a3c0ed44da357ed"
+hash = "35dfb667c5a6c1eaa98ca230a02db16f1e8f29fa53fd885ef62b6175bc7d73af"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8c6b2a87f513e4809e19a0c5963a3b4d98e7285736d8c2eede4742160ad05741"
+hash = "48c14746e68c3b5f13c0b17c3e15801f77fc95c0e9bf0f31b9aabfab8c8b0a63"
 metafile = true
 
 [[files]]
@@ -382,27 +382,27 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-compat-open-parties-and-claims.pw.toml"
-hash = "0a2556abaececf0a52087f947b9c140c38fa845348b50207675dbdaeb35fe527"
+hash = "c940d13e0af188699ba5decedf4fd12dbc6aef244b2aee8584f5d0f7f4e7528c"
 metafile = true
 
 [[files]]
 file = "mods/tensura-mysticism.pw.toml"
-hash = "9a9ba193174e80ee990518d6b7625f21e527ca099ce0fcbb924e475c002e5246"
+hash = "88e71816205896b2bfaa5b930621f97077f8ed3e47619c00e47031c823a19ee0"
 metafile = true
 
 [[files]]
 file = "mods/tensura-reincarnated.pw.toml"
-hash = "e3890e538eba12dea3846904c58bf752426ae0685d101ae924ca2b42966f8c7d"
+hash = "e08999f50eb3ce9a2786294d0bec6de5526aef2a579a007f9cc5067a2ea7073e"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
 metafile = true
 
 [[files]]
 file = "mods/tr-addon.pw.toml"
-hash = "34a06faa679a97e79be82a106256f433b3b2fcf535d503569107e38d2537da69"
+hash = "7e60c167c392ee94e35d57596134e156710d911b9664e20d405b7e306fe8f024"
 metafile = true
 
 [[files]]
@@ -483,6 +483,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "fedbdc2829a5403e04b896fec05ace56004be052ef8ef15b0de865a2ce18de53"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
