@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PW-GUI.exe"
+hash = "4131e172fc25e96ae27b913c00b16d90c871df94f5e97636a5df164fd13f4a0c"
+
+[[files]]
 file = "mods/CustomNPCs-1.19.2.20241119snapshot.jar"
 hash = "aed192c22eed189abe8c9af020d6143f7c4061711ecd1b4ca18b2cac83396a48"
 
@@ -22,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/balm-forge-1.19.2-4.6.0.jar"
 hash = "16057fe2f0d22a38465cc8adedfe1e38222e5ab35a88fc15c08c539393f189af"
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "7375abe6e39335fa7d20b946f6b93ef12366540395d6d4bea14c55b3d0953de7"
+metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
@@ -46,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/cleardrops.pw.toml"
 hash = "2903381208e015131ffebd5f8dc2fa91a4268cb5f90bc29e83c6d5bf86cabeba"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "0ecfcb55c6a7506a0262a9e3f620cdd19bf7cd3429623bc98fe65aa31d9f37e0"
 metafile = true
 
 [[files]]
@@ -303,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "b4a96cfd3695f2517b8a3c7b50038265a466b36896d650747af2e5774f30c354"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "1ee4379dd0ae4bb778b170bc90511a77a95d7682aab18f9910c2426edeac8c0e"
 metafile = true
 
 [[files]]
