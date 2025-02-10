@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "PW-GUI.exe"
-hash = "4131e172fc25e96ae27b913c00b16d90c871df94f5e97636a5df164fd13f4a0c"
-
-[[files]]
 file = "mods/CustomNPCs-1.19.2.20241119snapshot.jar"
 hash = "aed192c22eed189abe8c9af020d6143f7c4061711ecd1b4ca18b2cac83396a48"
 
