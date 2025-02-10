@@ -177,11 +177,6 @@ hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
 
 [[files]]
-file = "mods/fps-reducer.pw.toml"
-hash = "f06c241322d87422e8f3ab7ef91e6c2fca42111a1684af68ed2ae96c3328e0d6"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
 metafile = true
@@ -257,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeypac.pw.toml"
-hash = "7071cf1b5e6ecf948713b912689754162c2b4f363e7bafb58e798b4aeb13863a"
+hash = "1b7b6434cc920d5e19fe0c69de95ddab917a7ba6d7f3da8a4f47220d24878b3d"
 metafile = true
 
 [[files]]
@@ -273,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/manascore.pw.toml"
 hash = "7909983b0f3f99643d7440b7eb355be177581c74ec6cf1c12d49016766375f56"
-metafile = true
-
-[[files]]
-file = "mods/melody.pw.toml"
-hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
 metafile = true
 
 [[files]]
