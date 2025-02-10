@@ -148,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d42359be3bf3bdb65c5072f06d4f34e1ea9b40184af94f1631589d61da0a007a"
+hash = "81367f1a2e6c8f682949b6d0db19ae4bd3bb465634d4fd5f8baefb303c82fb27"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "3d8b8da8c1c77fec8c3ebab23b5328f02d6302b8e4d3ee0ab96953c23441fe87"
+hash = "ea423d90e9160182e3826f847400a5a29ea3e190222be5c55a5b359bfdfbb283"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "4b3f975d37b2f5faf8bdf1f9643dcfd1eacb436a3ed64e7535e1c53317a84c69"
+hash = "5c20ada0d4a2b575a05f5461dcc13a01ebec9c0eb87be5e1379c6acbdbadcf8a"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforgium.pw.toml"
-hash = "dd102ab1298ca331c3b6226bf45f23e37a3a690a4d98b959fa1a2aa6488cb43a"
+hash = "66fc910e71bc101ef51d9f8b5cef6cae2d7f00e80c13694dd724c916a5abf8dc"
 metafile = true
 
 [[files]]
