@@ -1,6 +1,6 @@
 name = "Connectedness"
 filename = "connectedness-2.0.1a.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
